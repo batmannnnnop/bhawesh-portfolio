@@ -55,7 +55,7 @@ export default function Education() {
               </div>
               <div className="flex justify-between border-b border-border pb-2">
                 <span className="text-muted">Current Year</span>
-                <span className="text-ink font-medium">1st Year</span>
+                <span className="text-ink font-medium">2nd Year</span>
               </div>
               <div className="flex justify-between">
                 <span className="text-muted">CGPA</span>
