@@ -96,13 +96,13 @@ export default function Hero() {
             onMouseLeave={e => e.currentTarget.style.color = '#8C8880'}>
             <Mail size={18} />
           </a>
-          <a href="https://linkedin.com/in/Bhawesh-Chandnani" target="_blank" rel="noreferrer" aria-label="LinkedIn"
+          <a href="https://linkedin.com/in/bhaweshchandnani" target="_blank" rel="noreferrer" aria-label="LinkedIn"
             className="transition-colors" style={{ color: '#8C8880' }}
             onMouseEnter={e => e.currentTarget.style.color = '#E8572A'}
             onMouseLeave={e => e.currentTarget.style.color = '#8C8880'}>
             <LinkedinIcon />
           </a>
-          <a href="https://github.com/bhaweshchandnani" target="_blank" rel="noreferrer" aria-label="GitHub"
+          <a href="https://github.com/batmannnnnop" target="_blank" rel="noreferrer" aria-label="GitHub"
             className="transition-colors" style={{ color: '#8C8880' }}
             onMouseEnter={e => e.currentTarget.style.color = '#E8572A'}
             onMouseLeave={e => e.currentTarget.style.color = '#8C8880'}>
