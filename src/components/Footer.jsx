@@ -29,8 +29,8 @@ export default function Footer() {
         <div className="flex items-center gap-5">
           {[
             { href: 'mailto:bhaweshchandnani9@gmail.com', icon: <Mail size={16} />, label: 'Email' },
-            { href: 'https://linkedin.com/in/Bhawesh-Chandnani', icon: <LinkedinIcon />, label: 'LinkedIn' },
-            { href: 'https://github.com/bhaweshchandnani', icon: <GithubIcon />, label: 'GitHub' },
+            { href: 'https://linkedin.com/in/bhaweshchandnani', icon: <LinkedinIcon />, label: 'LinkedIn' },
+            { href: 'https://github.com/batmannnnnop', icon: <GithubIcon />, label: 'GitHub' },
           ].map(({ href, icon, label }) => (
             <a key={label} href={href} target={href.startsWith('mailto') ? undefined : '_blank'} rel="noreferrer"
               aria-label={label} style={{ color: '#8C8880' }}
